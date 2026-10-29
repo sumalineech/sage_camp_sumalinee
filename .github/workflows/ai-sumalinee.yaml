@@ -1,6 +1,6 @@
 
 
-name: AI Review sumalinee
+name: ai-sumalinee
 
 on:
   pull_request:
